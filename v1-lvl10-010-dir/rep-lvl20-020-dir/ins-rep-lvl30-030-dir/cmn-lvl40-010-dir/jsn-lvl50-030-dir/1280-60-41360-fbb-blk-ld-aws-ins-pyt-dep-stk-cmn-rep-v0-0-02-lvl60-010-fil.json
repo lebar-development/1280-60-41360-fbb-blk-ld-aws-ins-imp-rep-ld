@@ -1,0 +1,59 @@
+{
+  "v1-lvl10-010-dir": {
+    "leg-lvl20-010-dir": {
+      "1280-60-11500-ill-leg-ld-aws-lvl30-020-dir": {
+        "ere-lvl40-010-dir": {
+          "1280-60-11520-pcr-fil-ld-aws-lvl50-010-dir": {
+            "cfg-lvl60-010-dir": "1280-60-11520-pcr-fil-ld-aws-dep-cfg-v0-0-01-lvl70-010-fil.json",
+            "env-lvl60-020-dir": "1280-60-11520-pcr-fil-ld-aws-dep-env-v0-0-01-lvl70-010-fil.json",
+            "net-lvl60-030-dir": "1280-60-11520-pcr-fil-ld-aws-dep-net-v0-0-01-lvl70-010-fil.json",
+            "pkg-lvl60-040-dir": "1280-60-11520-pcr-fil-ld-aws-dep-pkg-v0-0-01-lvl70-010-fil.json",
+            "rmt-lvl60-050-dir": "1280-60-11520-pcr-fil-ld-aws-dep-mrt-v0-0-01-lvl70-010-fil.json",
+            "sch-lvl60-060-dir": "1280-60-11520-pcr-fil-ld-aws-dep-sch-v0-0-01-lvl70-010-fil.json",
+            "stk-lvl60-070-dir": "1280-60-11520-pcr-fil-ld-aws-dep-stk-v0-0-01-lvl70-010-fil.py"
+          }
+        },
+        "mre-lvl40-020-dir": {
+          "1280-60-00010-jcr-ssh-ld-aws-lvl50-010-dir": {
+            "cfg-lvl60-010-dir": "1280-60-00010-jcr-ssh-ld-aws-dep-cfg-v0-0-01-lvl70-010-fil.json",
+            "env-lvl60-020-dir": "1280-60-00010-jcr-ssh-ld-aws-dep-env-v0-0-01-lvl70-010-fil.json",
+            "net-lvl60-030-dir": "1280-60-00010-jcr-ssh-ld-aws-dep-net-v0-0-01-lvl70-010-fil.json",
+            "pkg-lvl60-040-dir": "1280-60-00010-jcr-ssh-ld-aws-dep-pkg-v0-0-01-lvl70-010-fil.json",
+            "rmt-lvl60-050-dir": "1280-60-00010-jcr-ssh-ld-aws-dep-mrt-v0-0-01-lvl70-010-fil.json",
+            "sch-lvl60-060-dir": "1280-60-00010-jcr-ssh-ld-aws-dep-sch-v0-0-01-lvl70-010-fil.json",
+            "stk-lvl60-070-dir": "1280-60-00010-jcr-ssh-ld-aws-dep-stk-v0-0-01-lvl70-010-fil.py"
+          },
+          "1280-60-11505-ccr-ssh-ld-aws-lvl50-010-dir": {
+            "cfg-lvl60-010-dir": "1280-60-11505-ccr-ssh-ld-aws-dep-cfg-v0-0-01-lvl70-010-fil.json",
+            "env-lvl60-020-dir": "1280-60-11505-ccr-ssh-ld-aws-dep-env-v0-0-01-lvl70-010-fil.json",
+            "net-lvl60-030-dir": "1280-60-11505-ccr-ssh-ld-aws-dep-net-v0-0-01-lvl70-010-fil.json",
+            "pkg-lvl60-040-dir": "1280-60-11505-ccr-ssh-ld-aws-dep-pkg-v0-0-01-lvl70-010-fil.json",
+            "rmt-lvl60-050-dir": "1280-60-11505-ccr-ssh-ld-aws-dep-mrt-v0-0-01-lvl70-010-fil.json",
+            "sch-lvl60-060-dir": "1280-60-11505-ccr-ssh-ld-aws-dep-sch-v0-0-01-lvl70-010-fil.json",
+            "stk-lvl60-070-dir": "1280-60-11505-ccr-ssh-ld-aws-dep-stk-v0-0-01-lvl70-010-fil.py"
+          },
+          "1280-60-11510-fcr-sec-ld-aws-lvl50-010-dir": {
+            "cfg-lvl60-010-dir": "1280-60-11510-fcr-sec-ld-aws-dep-cfg-v0-0-01-lvl70-010-fil.json",
+            "env-lvl60-020-dir": "1280-60-11510-fcr-sec-ld-aws-dep-env-v0-0-01-lvl70-010-fil.json",
+            "net-lvl60-030-dir": "1280-60-11510-fcr-sec-ld-aws-dep-net-v0-0-01-lvl70-010-fil.json",
+            "pkg-lvl60-040-dir": "1280-60-11510-fcr-sec-ld-aws-dep-pkg-v0-0-01-lvl70-010-fil.json",
+            "rmt-lvl60-050-dir": "1280-60-11510-fcr-sec-ld-aws-dep-mrt-v0-0-01-lvl70-010-fil.json",
+            "sch-lvl60-060-dir": "1280-60-11510-fcr-sec-ld-aws-dep-sch-v0-0-01-lvl70-010-fil.json",
+            "stk-lvl60-070-dir": "1280-60-11510-fcr-sec-ld-aws-dep-stk-v0-0-01-lvl70-010-fil.py"
+          },
+          "1280-60-11515-fcr-sec-ld-aws-lvl50-010-dir": {
+            "cfg-lvl60-010-dir": "1280-60-11515-fcr-sec-ld-aws-dep-cfg-v0-0-01-lvl70-010-fil.json",
+            "env-lvl60-020-dir": "1280-60-11515-fcr-sec-ld-aws-dep-env-v0-0-01-lvl70-010-fil.json",
+            "net-lvl60-030-dir": "1280-60-11515-fcr-sec-ld-aws-dep-net-v0-0-01-lvl70-010-fil.json",
+            "pkg-lvl60-040-dir": "1280-60-11515-fcr-sec-ld-aws-dep-pkg-v0-0-01-lvl70-010-fil.json",
+            "rmt-lvl60-050-dir": "1280-60-11515-fcr-sec-ld-aws-dep-mrt-v0-0-01-lvl70-010-fil.json",
+            "sch-lvl60-060-dir": "1280-60-11515-fcr-sec-ld-aws-dep-sch-v0-0-01-lvl70-010-fil.json",
+            "stk-lvl60-070-dir": "1280-60-11515-fcr-sec-ld-aws-dep-stk-v0-0-01-lvl70-010-fil.py"
+          }
+        },
+        "stk-lvl40-030-dir": "1280-60-11500-ill-leg-ld-aws-dep-stk-v0-0-01-lvl50-010-fil.py"
+      }
+    },
+    "stk-lvl20-020-dir": "1280-60-41360-fbb-blk-ld-aws-ins-dep-stk-v0-0-01-lvl30-010-fil.py"
+  }
+}

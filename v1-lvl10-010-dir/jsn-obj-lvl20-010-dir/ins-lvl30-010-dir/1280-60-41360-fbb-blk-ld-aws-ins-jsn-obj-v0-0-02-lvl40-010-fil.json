@@ -1,0 +1,70 @@
+[
+  {
+    "aliasNameKEY": "none",
+    "blockNumberKEY": "1280-60",
+    "fqbidKEY": "1280-60-41360-fbb-blk-ld-aws",
+    "blockDescriptionKEY": "jump configuration",
+    "stackNameKEY": "31280-60-41360-fbb-blk-ld-aws-ins-dep-stk-v0-0-01-lvl30-010-fil.py",
+    "11500": [
+      {
+        "aliasNameKEY": "none",
+        "fqlidKEY": "1280-60-11500-ill-leg-ld-aws",
+        "stackNameKEY": "1280-60-11500-ill-leg-ld-aws-dep-stk-v0-0-01-lvl50-010-fil.py",
+        "dir": {
+          "aliasNameKEY": "none",
+          "resourceNameKEY": ".ssh",
+          "fqridKEY": "1280-60-11015-mcr-dir-ld-aws",
+          "accessTypeKEY": "none",
+          "stackNameKEY": "1280-60-11015-mcr-dir-ld-aws-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
+          "deploymentOrderNumber10700KEY": "22222",
+          "deletionProtectionFlag10700KEY": "none",
+          "ssh": {
+            "aliasNameKEY": "none",
+            "resourceNameKEY": "jump-github-1280-60-ssh-ld",
+            "fqridKEY": "1280-60-11505-ccr-ssh-ld-aws",
+            "accessTypeKEY": "none",
+            "stackNameKEY": "1280-60-11505-ccr-ssh-ld-aws-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
+            "deploymentOrderNumber10700KEY": "11505",
+            "deletionProtectionFlag10700KEY": "none",
+            "sec": {
+              "aliasNameKEY": "none",
+              "resourceNameKEY": "jump-github-private-sh-key-1280-60-sec-ld",
+              "fqridKEY": "1280-60-11510-fcr-sec-ld-aws",
+              "accessTypeKEY": "none",
+              "stackNameKEY": "1280-60-11510-fcr-sec-ld-aws-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
+              "deploymentOrderNumber10700KEY": "11510",
+              "deletionProtectionFlag10700KEY": "none"
+            },
+            "ssh": {
+              "aliasNameKEY": "none",
+              "resourceNameKEY": "jump-github-1280-60-ssh-ld.pub",
+              "fqridKEY": "1280-60-00010-jcr-ssh-ld-aws",
+              "accessTypeKEY": "none",
+              "stackNameKEY": "1280-60-00010-jcr-ssh-ld-aws-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
+              "deploymentOrderNumber10700KEY": "00010",
+              "deletionProtectionFlag10700KEY": "none",
+              "sec": {
+                "aliasNameKEY": "none",
+                "resourceNameKEY": "jump-github-private-sh-key-1280-60-sec-ld",
+                "fqridKEY": "1280-60-11515-fcr-sec-ld-aws",
+                "accessTypeKEY": "none",
+                "stackNameKEY": "1280-60-11515-fcr-sec-ld-aws-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
+                "deploymentOrderNumber10700KEY": "11515",
+                "deletionProtectionFlag10700KEY": "none",
+                "fil": {
+                  "aliasNameKEY": "none",
+                  "resourceNameKEY": "jump-block-one-ecr-1280-60-fil-ld",
+                  "fqridKEY": "1280-60-11520-pcr-fil-ld-aws",
+                  "accessTypeKEY": "none",
+                  "stackNameKEY": "1280-60-11520-pcr-fil-ld-aws-dep-stk-v0-0-01-lvl70-010-fil.py",
+                  "deploymentOrderNumber10700KEY": "11520",
+                  "deletionProtectionFlag10700KEY": "none"
+                }
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+]
